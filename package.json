@@ -1,0 +1,23 @@
+{
+  "name": "rs_Keyboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Igor-14-05/rs_Keyboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Igor-14-05/rs_Keyboard/issues"
+  },
+  "homepage": "https://github.com/Igor-14-05/rs_Keyboard#readme",
+  "devDependencies": {
+    "eslint": "^7.0.0"
+  }
+}
